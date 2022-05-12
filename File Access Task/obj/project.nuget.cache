@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6u9XdaKdfPJ/0oMZInto/rihWY94b5TOxBnbAJXqOnlR+OT1a7fI8Y0CUV7mpowIj6j0jvZLrq/P/GBIK3Y6pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasse\\Downloads\\File Access Task\\File Access Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasse\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\yasse\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\yasse\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\yasse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
